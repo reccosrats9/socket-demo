@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.room1{
+  background: #0FF1C3;
+  color: whitesmoke;
+  height: 80vh;  
+  width: 40vw;
+  padding: 10vh;
+  overflow: auto;
+}
+
+.room2{
+  background: #eee;
+  color: black;
+  height: 80vh;
+  width: 40vw;  
+  padding: 10vh;  
+  overflow: auto;
+  
+}
